@@ -22,25 +22,25 @@ function Hero2() {
               objectFit="cover"
             ></Image>
             <div className="">
-              <Image
+              {/* <Image
                 src={Jhome.image_doctor}
                 width={300}
                 height={300}
                 alt=""
                 className="absolute bottom-0 -right-10 h-[350px] w-auto md:hidden"
-              ></Image>
+              ></Image> */}
             </div>
           </div>
           <div className="relative p-7 md:p-10 md:pb-0  w-fit  md:mx-auto max-w-[1440px] xl:p-20 xl:pb-0">
             <div className=" flex md:gap-10 items-center xl:gap-20">
               <div className="  h-fit">
-                <Image
+                {/* <Image
                   src={Jhome.image_doctor}
                   width={300}
                   height={300}
                   alt=""
                   className=" hidden md:block  md:w-[300px] md:h-full  h-[350px]  xl:w-[450px]  "
-                ></Image>
+                ></Image> */}
               </div>
               <div className="">
                 <h1 className="text-6xl w-fit font-bold text-white  md:text-5xl lg:text-6xl xl:text-8xl">
